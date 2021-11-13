@@ -3,4 +3,3 @@
 - lime
 - salt
 # Instructions
-add some salt
