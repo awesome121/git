@@ -1,5 +1,4 @@
 # Ingredients
-- avocado
 - lime
 - salt
 - juice
