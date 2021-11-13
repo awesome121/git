@@ -3,4 +3,4 @@
 - lime
 - salt
 # Instructions
-- peel the avocados
+- cut the avocados
